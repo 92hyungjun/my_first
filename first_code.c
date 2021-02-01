@@ -4,6 +4,7 @@ int func1(){
 }
 
 int func2(){
+    //commit 2
     return 0;
 }
 
