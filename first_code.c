@@ -5,6 +5,7 @@ int func1(){
 
 int func2(){
     //bug fix
+    //adfasdfsdaafsd hyungjun
     return 0;
 }
 
