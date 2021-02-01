@@ -4,6 +4,7 @@ int func1(){
 }
 
 int func2(){
+    //bug fix
     return 0;
 }
 
