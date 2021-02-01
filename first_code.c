@@ -10,6 +10,7 @@ int func2(){
     //bug fix
     //adfasdfsdaafsd hyungjun
     // add jun
+    // don't change this without talking to jun
     return 0;
 }
 
